@@ -1,0 +1,72 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form 7 WooCommerce Order\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-07 09:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1"
+
+#: cf7wooorders.php:51
+msgid ""
+"This plugin requires <a target=\"_blank\" href=\"https://wordpress."
+"org/plugins/contact-form-7/\">Contact Form 7</a> plugin to be active!"
+msgstr ""
+
+#: cf7wooorders.php:63
+msgid ""
+"This plugin requires <a target=\"_blank\" href=\"https://wordpress."
+"org/plugins/woocommerce\">Woocommerce</a> plugin to be active!"
+msgstr ""
+
+#: cf7wooorders.php:93
+msgid "Documentation & Support"
+msgstr ""
+
+#: cf7wooorders.php:176
+msgid "Status"
+msgstr ""
+
+#: cf7wooorders.php:176
+msgid "Date"
+msgstr ""
+
+#: cf7wooorders.php:204
+msgid "-- Select Order --"
+msgstr ""
+
+#: cf7wooorders.php:292
+msgid "WooCommerce Order Dropdown"
+msgstr ""
+
+#: cf7wooorders.php:394 cf7wooorders.php:398 cf7wooorders.php:433
+msgid "N/A"
+msgstr ""
+
+#. Name of the plugin
+msgid "Contact Form 7 WooCommerce Order Dropdown Field"
+msgstr ""
+
+#. Description of the plugin
+msgid "Woocommerce Customer Orders Drop down Selector"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/contact-form-7-woocommerce-orders"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr ""
